@@ -1,0 +1,24 @@
+<div class="col-6 col-md-4 col-lg-6">
+
+</div>
+
+
+
+col- = tamanho padrão (normalmente cel)
+col-md  = tamanho de tela média, igual ou maior a 768px
+
+largura 1 .. 12
+tela de celular- 1 sobrepondo abaixo 
+
+celular tela unica- 12 para ocupar apenas uma coluna
+
+
+tablete/desktop, 
+3/3/3/3- totalizando 12
+4/4/4-totalizando 12 para 3 
+coluna 6/6- para 2 coluna.
+
+
+
+/12
+
